@@ -7,17 +7,13 @@ Electronics and Communication Engineering Undergraduate | Machine Learning | Sof
 
 ## Profile
 
-I am a third-year undergraduate student pursuing **Electronics and Communication Engineering**, with strong interests in **machine learning, data-driven systems, and software development**. I focus on applying theoretical concepts to practical problems through well-structured, scalable, and efficient software solutions.
-
+I am a third-year undergraduate student pursuing **Electronics and Communication Engineering**, with strong interests in **machine learning, data-driven systems, and frontend development**. 
 My current areas of work include **machine learning applications, full-stack development, and data structures & algorithms**.
-
 ---
-
 ## Academic & Technical Interests
 
 - Machine Learning and Applied AI  
-- Signal Processing and Data Analysis  
-- Software Engineering and System Design  
+Frontend Development 
 - Data Structures, Algorithms, and Competitive Programming  
 
 ---
@@ -29,8 +25,8 @@ My current areas of work include **machine learning applications, full-stack dev
 - C++  
 - Python  
 - JavaScript  
-- TypeScript  
-
+- TypeScript
+- React
 ### Machine Learning & Data Science
 - Libraries: NumPy, Pandas, Scikit-learn, Matplotlib  
 - Concepts: Regression, Feature Engineering, Model Evaluation  
@@ -39,8 +35,8 @@ My current areas of work include **machine learning applications, full-stack dev
 ### Web Development
 - Frontend: HTML5, CSS3, JavaScript  
 - Frameworks: React  
-- Focus: Clean UI, responsiveness, maintainable code  
-
+- Focus: Clean UI, responsiveness, maintainable code
+- 
 ### Tools & Platforms
 - Git, GitHub  
 - VS Code  
@@ -48,11 +44,9 @@ My current areas of work include **machine learning applications, full-stack dev
 
 ---
 
-## Selected Projects
-
+##  Projects
 ### House Price Prediction System
 Machine learning–based system for predicting residential property prices using structured datasets.
-
 **Highlights**
 - Data preprocessing and exploratory analysis  
 - Feature engineering and model selection  
@@ -60,7 +54,6 @@ Machine learning–based system for predicting residential property prices using
 - Performance evaluation and visualization  
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
-
 ---
 
 ### Crowdsourced Civic Issue Resolution Platform
@@ -72,7 +65,6 @@ Frontend prototype illustrating a digital workflow for reporting and tracking ci
 - Frontend-focused system design  
 
 **Technologies:** HTML, CSS, JavaScript
-
 ---
 
 ### CafeFusion (Open Source Contribution)
@@ -83,16 +75,13 @@ Contributor during the **IEEE IGT-DUW Open Source Program**, working on UI impro
 - Bug fixes and issue handling  
 - Collaborative development using GitHub  
 
-**Technologies:** CSS, Git, GitHub
-
+**Technologies:**  Git, GitHub,Javascript,CSS
 ---
-
 ## Problem Solving & DSA
 
 - Strong focus on **data structures and algorithms**
 - Regular practice of:
   - Arrays, Linked Lists, Stacks, Queues  
-  - Trees, Graphs  
   - Recursion, Dynamic Programming  
   - Time and space complexity optimization  
 - Applying algorithmic thinking to real-world problems
@@ -110,20 +99,18 @@ Contributor during the **IEEE IGT-DUW Open Source Program**, working on UI impro
 </p>
 
 ---
-
 ## Current Focus
 
 - Advancing machine learning projects beyond basic regression models  
 - Building scalable frontend applications using React and TypeScript  
 - Strengthening DSA and competitive programming foundations  
 - Contributing to meaningful open-source projects  
-
 ---
 
 ## Contact
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- Email: your_email@gmail.com  
+- LinkedIn:(https://www.linkedin.com/in/amrit-bhardwaj-50836528a/)
+- Email: amritbharadwaj4@gmail.com
 
 ---
 
