@@ -1,117 +1,28 @@
-<h1 align="center">Amrit Bhardwaj</h1>
-<p align="center">
-Electronics and Communication Engineering Undergraduate | Machine Learning | Software Development
-</p>
-
----
-
-## Profile
-
-I am a third-year undergraduate student pursuing **Electronics and Communication Engineering**, with strong interests in **machine learning, data-driven systems, and frontend development**. 
-My current areas of work include **machine learning applications, full-stack development, and data structures & algorithms**.
----
-## Academic & Technical Interests
-
-- Machine Learning and Applied AI  
-Frontend Development 
-- Data Structures, Algorithms, and Competitive Programming  
-
----
-
-## Technical Skills
-
-### Programming Languages
-- C  
-- C++  
-- Python  
-- JavaScript  
-- TypeScript
-- React
-### Machine Learning & Data Science
-- Libraries: NumPy, Pandas, Scikit-learn, Matplotlib  
-- Concepts: Regression, Feature Engineering, Model Evaluation  
-- Tools: Jupyter Notebook, Google Colab  
-
-### Web Development
-- Frontend: HTML5, CSS3, JavaScript  
-- Frameworks: React  
-- Focus: Clean UI, responsiveness, maintainable code
-- 
-### Tools & Platforms
-- Git, GitHub  
-- VS Code  
-- Jupyter Notebook  
-
----
-
-##  Projects
-### House Price Prediction System
-Machine learning–based system for predicting residential property prices using structured datasets.
-**Highlights**
-- Data preprocessing and exploratory analysis  
-- Feature engineering and model selection  
-- Regression-based predictive modeling  
-- Performance evaluation and visualization  
-
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib
----
-
-### Crowdsourced Civic Issue Resolution Platform
-Frontend prototype illustrating a digital workflow for reporting and tracking civic issues.
-
-**Highlights**
-- Intuitive and responsive user interface  
-- Issue categorization and workflow visualization  
-- Frontend-focused system design  
-
-**Technologies:** HTML, CSS, JavaScript
----
-
-### CafeFusion (Open Source Contribution)
-Contributor during the **IEEE IGT-DUW Open Source Program**, working on UI improvements and issue resolution.
-
-**Contributions**
-- UI styling and layout enhancements  
-- Bug fixes and issue handling  
-- Collaborative development using GitHub  
-
-**Technologies:**  Git, GitHub,Javascript,CSS
----
-## Problem Solving & DSA
-
-- Strong focus on **data structures and algorithms**
-- Regular practice of:
-  - Arrays, Linked Lists, Stacks, Queues  
-  - Recursion, Dynamic Programming  
-  - Time and space complexity optimization  
-- Applying algorithmic thinking to real-world problems
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amritbhardwajgsv&show_icons=true&hide_title=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritbhardwajgsv&layout=compact&theme=default" />
-</p>
-
----
-## Current Focus
-
-- Advancing machine learning projects beyond basic regression models  
-- Building scalable frontend applications using React and TypeScript  
-- Strengthening DSA and competitive programming foundations  
-- Contributing to meaningful open-source projects  
----
-
-## Contact
-
-- LinkedIn:(https://www.linkedin.com/in/amrit-bhardwaj-50836528a/)
-- Email: amritbharadwaj4@gmail.com
-
----
-
-*Focused on building strong fundamentals and impactful software systems.*
+<h1>Hi , I'm  Amrit Bhardwaj from opposite side of your screen </h1>
+<p></p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
+<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
+<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://x.com/print_amrit" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/amrit-bhardwaj-50836528a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amritbhardwajgsv&show_icons=true&locale=en" alt="Amritbhardwajgsv" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amritbhardwajgsv&" alt="Amritbhardwajgsv" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amritbhardwajgsv&show_icons=true&locale=en&layout=compact" alt="Amritbhardwajgsv" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amritbhardwajgsv" alt="Amritbhardwajgsv" /></a></p>
