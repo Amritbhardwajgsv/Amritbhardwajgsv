@@ -22,7 +22,4 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://x.com/print_amrit" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/amrit-bhardwaj-50836528a/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amritbhardwajgsv&show_icons=true&locale=en" alt="Amritbhardwajgsv" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amritbhardwajgsv&" alt="Amritbhardwajgsv" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amritbhardwajgsv&show_icons=true&locale=en&layout=compact" alt="Amritbhardwajgsv" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amritbhardwajgsv" alt="Amritbhardwajgsv" /></a></p>
+
