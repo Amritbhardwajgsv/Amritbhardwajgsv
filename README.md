@@ -15,7 +15,7 @@
 
 <div align="center">
 
-![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=800&color=00FFB3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=ECE+undergrad+%40+Gati+Shakti+Vishwavidyalaya;Mumbai+Metro+ran+on+my+ML+models.+no+big+deal.;LeetCode+1726+%7C+shipping+to+prod+%7C+building+bots)
+![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=800&color=00FFB3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=ECE+undergrad+%40+Gati+Shakti+Vishwavidyalaya;LeetCode+1726+%7C+shipping+to+prod+%7C+building+bots)
 
 </div>
 
