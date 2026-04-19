@@ -173,6 +173,6 @@ while (alive) {
 }
 ```
 
-`grad: 2027` · `cgpa: 8.5` · `commits: ∞`
+`grad: 2027` · `commits: ∞`
 
 </div>
