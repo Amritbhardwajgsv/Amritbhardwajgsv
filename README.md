@@ -132,14 +132,14 @@ Wabtec Exceed 3.0 → top 25 teams  [ qualified ]
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmritBhardwaj&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=c9d1d9&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritBhardwaj&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amritbhardwajgsv&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=c9d1d9&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritbhardwajgsv&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![streak](https://streak-stats.demolab.com/?user=AmritBhardwaj&theme=merko&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3)
+![streak](https://streak-stats.demolab.com/?user=Amritbhardwajgsv&theme=merko&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3)
 
 </div>
 
@@ -173,6 +173,6 @@ while (alive) {
 }
 ```
 
-`grad: 2027` · `commits: ∞`
+`grad: 2027` · `cgpa: 8.5` · `commits: ∞`
 
 </div>
