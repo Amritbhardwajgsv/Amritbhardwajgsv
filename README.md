@@ -31,7 +31,7 @@
 ✔  kernel: ECE @ GSV Central University  (CGPA: 8.5)
 ✔  runtime: React · Node · C++ · Python · GoLang
 ✔  daemon:  always_building.service [ACTIVE]
-✔  uptime:  since 2003, no planned downtime
+✔  uptime:  since 2005, no planned downtime
 ```
 
 ---
