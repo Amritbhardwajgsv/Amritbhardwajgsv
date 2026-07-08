@@ -19,9 +19,4 @@ Full Stack Engineer · ML Enthusiast · ECE @ GSV (2027)
 
 ---
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amritbhardwajgsv&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritbhardwajgsv&layout=compact&theme=default&hide_border=true"/>
-</div>
-
 <p align="center"><i>Open to collabs, internships & hackathons — inbox is fast ⚡</i></p>
