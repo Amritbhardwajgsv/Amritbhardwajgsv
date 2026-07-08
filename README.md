@@ -1,178 +1,97 @@
+<h1 align="center">Hi, I'm Amrit Bhardwaj 👋</h1>
+
+<p align="center">
+ECE Undergrad @ Gati Shakti Vishwavidyalaya · Full Stack Engineer · ML & Systems Enthusiast
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amrit-bhardwaj-50836528a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/print_amrit"><img src="https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white" alt="Twitter"/></a>
+  <a href="mailto:amritbharadwaj4@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+---
+
+## About Me
+
+- 🎓 B.Tech in Electronics & Communication Engineering (Rail Engineering specialization) @ GSV Central University, Vadodara — CGPA 8.53, Class of 2027
+- 💼 Project Management Intern @ Frauscher Sensor Technology — built a file-monitoring service with resumable S3 uploads
+- ⚡ Full Stack Production Engineer (Freelance) @ Hibiscus Tech — Redis leaderboards, analytics, chess puzzle engines
+- 🚇 Previously ML Intern @ MMRDA (Mumbai Metro) — rolling stock scheduling optimization on real transit data
+- 🏆 LeetCode Max Rating 1726 (Top 15%)
+
+---
+
+## Tech Stack
+
+**Languages:** C++ · JavaScript (ES6+) · TypeScript · Python
+
+**Frontend:** React.js · Next.js · Redux · Tailwind CSS · ShadCN UI · HTML5 · CSS3
+
+**Backend:** Node.js · Express.js · REST APIs · WebSockets · WebRTC · JWT Auth · Redis · Pub/Sub · Webhooks · Worker Queues · Mongoose
+
+**ML & Data Science:** Scikit-learn · XGBoost · CatBoost · Pandas · NumPy
+
+**NLP & LLM Tooling:** SpaCy · LangChain · LangGraph · RAG · Vector Embeddings · Gemini API
+
+**Databases:** PostgreSQL · MongoDB · Redis (Sorted Sets) · SQLite
+
+**System Design:** Event-Driven Architecture · Producer-Consumer Patterns · Pub/Sub Messaging · Leaderboard Archival
+
+**Tools & Platforms:** Git/GitHub · Docker · AWS (S3, EC2) · Postman · Jupyter · VS Code
+
+---
+
+## Experience
+
+**Project Management Intern — Frauscher Sensor Technology, Mumbai** *(May 2026 – Present)*
+- Conceived and independently built a Windows background service (Node.js, TypeScript strict mode) that monitors shared folders via chokidar, detects file-write completion with a polling-based stability check, and uploads validated tender documents to Amazon S3 using resumable multipart uploads
+
+**Full Stack Production Engineer (Freelance) — Hibiscus Tech, Remote** *(Feb 2026 – Present)*
+- Built and shipped a real-time leaderboard system using Redis Sorted Sets (ZADD/ZREVRANK) with monthly archival snapshots into PostgreSQL to preserve historical rankings at scale
+- Developed the platform's analysis section end-to-end — from design through production deployment — with data visualization components and player performance metrics
+- Engineering chess puzzle generation logic using heuristic-based approaches to dynamically serve puzzles matched to player skill
+
+**Data Science & ML Intern — MMRDA (DB RAIL), Mumbai** *(May – Jun 2025)*
+- Engineered ML-based solutions to optimize rolling stock scheduling, analyzing metro operational datasets to tune speed parameters and reduce headway latency
+
+---
+
+## Projects
+
+### DRISHTI — Traffic Intelligence Platform
+`FastAPI` `Next.js` `Random Forest` `PostgreSQL`
+Full-stack AI triage system for Bengaluru Traffic Police: predicts incident priority, estimated clearance time, and officer deployment needs from free-text citizen complaints in English, Kannada, and Hindi. A MultiOutputRegressor (Random Forest, 240 trees) predicts 9 simultaneous resource targets — constables, ASI, SI, inspectors, barricades, tow units, medical units, diversion confidence — wired to a weekly retraining pipeline consuming resolved incidents from PostgreSQL.
+
+### Sosyo — Privacy-First Real-Time Social Networking Platform
+`Express.js` `PostgreSQL` `Redis` `WebSockets`
+Location-aware social platform supporting user discovery, mutual friendships, private messaging, presence tracking, and nearby active friend recommendations. Scalable backend with JWT auth, OTP verification, session management, and role-based authorization, plus real-time architecture for messaging, typing indicators, read receipts, and Redis-backed caching for low-latency interactions.
+
+---
+
+## Achievements & Certifications
+
+- **TCS iON NQT (IT Certification):** 89% in Programming (C++), top percentile in Cognitive Ability
+- **Competitive Programming:** LeetCode Max Rating 1726 (Top 15%) · CodeChef 1300+ · Codeforces 1100+
+- **Flipkart Gridathon:** Selected for Round 2 among the top 1.6k teams
+- **Wabtec Exceed 3.0:** Among the top 25 teams to qualify for the hackathon
+- **Junior Scientist Award:** Awarded by the National Children's Science Congress (Dept. of Science & Technology); part of the KVS National team for the JNMSEE Exhibition
+
+---
+
+## GitHub Stats
+
 <div align="center">
-
-```
- _______ _______ ______  _____ _______ 
- |_____| |  |  | |_____/   |      |    
- |     | |  |  | |    \_ __|__    |    
-
-█▄▄ █░█ ▄▀█ █▀█ █▀▄ █░█░█ ▄▀█ ░░█ ░░
-█▄█ █▀█ █▀█ █▀▄ █▄▀ ▀▄▀▄▀ █▀█ █▄█ █▄
-```
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amritbhardwajgsv&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritbhardwajgsv&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top languages"/>
 </div>
 
 ---
 
-<div align="center">
+## Contact
 
-![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2000&pause=800&color=00FFB3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=ECE+undergrad+%40+Gati+Shakti+Vishwavidyalaya;LeetCode+1726+%7C+shipping+to+prod+%7C+building+bots)
+📫 **Email:** amritbharadwaj4@gmail.com
+💼 **LinkedIn:** [amrit-bhardwaj](https://www.linkedin.com/in/amrit-bhardwaj-50836528a/)
+🐦 **Twitter:** [@print_amrit](https://x.com/print_amrit)
 
-</div>
-
----
-
-```zsh
-❯ ./boot_amrit.sh
-
-[■■■■■■■■■■■■■■■■■■■■] 100%  loading personality...
-[■■■■■■■■■■■■■■■■■■■■] 100%  injecting caffeine...
-[■■■■■■■■■■■■■■■■■■■■] 100%  compiling opinions...
-
-✔  kernel: ECE @ GSV Central University  (CGPA: 8.5)
-✔  runtime: React · Node · C++ · Python · GoLang
-✔  daemon:  always_building.service [ACTIVE]
-✔  uptime:  since 2005, no planned downtime
-```
-
----
-
-### `~/stack` — the full arsenal
-
-```rs
-// languages
-let langs = ["C++", "C", "JavaScript ES6+", "TypeScript",
-             "Python", "SQL", "MATLAB", "GoLang"];
-
-// where the pixels live
-let frontend = ["React.js", "Next.js", "Redux", "Tailwind CSS",
-                "ShadCN UI", "HTML5", "CSS3"];
-
-// where the data flows
-let backend  = ["Node.js", "Express.js", "WebSockets", "WebRTC",
-                "Prisma ORM", "Mongoose", "JWT", "REST APIs"];
-
-// where the models grind
-let ml_stack = ["Scikit-learn", "XGBoost", "LSTM", "Random Forest",
-                "Pandas", "NumPy", "OpenCV", "RAG", "Gemini"];
-
-// the essentials
-let tools    = ["Git", "Postman", "Figma", "VS Code",
-                "Jupyter", "Arduino", "MongoDB"];
-```
-
----
-
-### `~/experience` — war stories
-
-```diff
-+ [Feb 2026 → NOW]    Hibiscus Tech — Full Stack Product Intern
-  >> shipping core platform pages to production
-  >> React frontends wired to live backend APIs
-  >> built game bot logic from scratch w/ custom heuristics
-  >> analysis section? designed & delivered end-to-end.
-
-+ [May–Jun 2025]      MMRDA — ML Intern @ Mumbai Metro
-  >> real trains. real data. real optimization.
-  >> Random Forest + LSTM → predicted dwell times
-  >> automated data pipeline → cut manual cleaning 40%
-  >> scheduling algos that actually reduce delays. shipped.
-
-+ [ongoing]           IEEE IGDTUW — Open Source Contributor
-  >> 5+ PRs merged into main
-  >> React bug hunts, feature drops, clean code only
-```
-
----
-
-### `~/projects` — things i actually built
-
-```python
-PROJECTS = [
-    {
-        "name"    : "Mumbai Metro — Dwell Time & Headway Optimizer",
-        "stack"   : ["Python", "Scikit-learn", "LSTM", "Pandas", "NumPy"],
-        "flex"    : "ML on real metro operational data → reduced peak delays",
-        "alpha"   : "Random Forest + LSTM combo for dwell time forecasting",
-        "impact"  : "40% reduction in manual data cleaning via pipeline automation",
-    },
-    {
-        "name"    : "Broker Management Platform",
-        "stack"   : ["React", "Node.js", "Express", "MongoDB", "JWT", "Multer"],
-        "flex"    : "full property rental backend — auth, listings, geospatial filters",
-        "alpha"   : "role-based JWT auth + geospatial MongoDB schemas",
-        "impact"  : "cloud-ready image pipeline + optimized search APIs",
-    },
-    {
-        "name"    : "House Price Predictor — Bangalore",
-        "stack"   : ["Python", "XGBoost", "Scikit-learn", "GridSearchCV"],
-        "flex"    : "stacking ensembles + XGBoost → low RMSE on housing data",
-        "alpha"   : "extensive feature engineering + GridSearchCV tuning",
-        "impact"  : "high-accuracy regression model, production-grade pipeline",
-    },
-]
-```
-
----
-
-### `~/kills` — competitive grind
-
-```
-LEETCODE   ████████████████████░░░░  1726 rating  [TOP 15%]
-CODECHEF   █████████████░░░░░░░░░░░  1300
-CODEFORCES ███████████░░░░░░░░░░░░░  1100
-
-TCS iON NQT     →  89% in C++  |  top percentile cognitive
-RoomGi Hackathon →  top 25 teams  [ qualified ]
-Wabtec Exceed 3.0 → top 25 teams  [ qualified ]
-```
-
----
-
-### `~/github_stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amritbhardwajgsv&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FFB3&icon_color=00FFB3&text_color=c9d1d9&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amritbhardwajgsv&layout=compact&theme=merko&hide_border=true&bg_color=0d1117&title_color=00FFB3&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-![streak](https://streak-stats.demolab.com/?user=Amritbhardwajgsv&theme=merko&hide_border=true&background=0d1117&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3)
-
-</div>
-
----
-
-### `~/contact` — drop a signal
-
-```bash
-❯ curl -X POST https://amrit.dev/contact \
-    -d "twitter=@print_amrit" \
-    -d "linkedin=amrit-bhardwaj-50836528a" \
-    -d "email=amritbharadwaj4@gmail.com" \
-    -d "open_to=collabs,internships,hackathons,chaos"
-
-> 200 OK — signal received. reply time: fast.
-```
-
-[![twitter](https://img.shields.io/badge/-%40print__amrit-0f1419?style=for-the-badge&logo=x&logoColor=white)](https://x.com/print_amrit)
-[![linkedin](https://img.shields.io/badge/-amrit--bhardwaj-0a77b6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrit-bhardwaj-50836528a/)
-
----
-
-<div align="center">
-
-```
-while (alive) {
-    eat();
-    code();
-    learn();
-    ship();   // most important
-}
-```
-
-`grad: 2027` · `cgpa: 8.5` · `commits: ∞`
-
-</div>
+*Open to collaborations, internships, and hackathons.*
