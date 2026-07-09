@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Amrit 👋</h1>
 
 <p align="center">
-Full Stack Engineer · ML Enthusiast · ECE @ GSV (2027)
+Aspiring Full Stack Engineer  · ECE @ GSV (2027)
 </p>
 
 <p align="center">
